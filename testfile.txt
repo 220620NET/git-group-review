@@ -1,0 +1,6 @@
+I wonder if the whole class can see this on Junipers branch now.
+Adding some extra info here.
+
+Hello all.
+
+I'm making some changes here... maybe writing a login feature.
